@@ -16,12 +16,12 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Screenshot
 
-![](./Screenshot%202024-06-23%20213036.png)
+![](./Screenshot%202024-06-25%20021230.png)
 
 
 ### Links
 
-- Live Site URL: (https://alieninvade.github.io/Four-Card-Feature/)
+- Live Site URL: (https://alieninvade.github.io/testimonials-grid-section/git)
 
 ### Built with
 
