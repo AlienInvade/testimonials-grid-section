@@ -21,7 +21,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: (https://alieninvade.github.io/testimonials-grid-section/git)
+- Live Site URL: (https://alieninvade.github.io/testimonials-grid-section/)
 
 ### Built with
 
