@@ -107,6 +107,10 @@ main {
     grid-row: 2 / 2;
 }
 
+.row1-col3 .max-fontweight, .row2-col2 .max-fontweight {
+    color: var(--Very-dark-grayish-blue);
+}
+
 .row2-col1 {
     background-color: var(--Very-dark-blackish-blue);
     grid-area: 2 / 2 / 2 / 4;
@@ -156,10 +160,7 @@ main {
     }
 
     footer {
-        position: absolute;
-        top: 100%;
-        left: 50%;
-        transform: translate(-50%, 1040px);
+        transform: translate(0, 520px);
         margin: 10px 0;
     }
 
