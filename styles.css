@@ -132,7 +132,7 @@ main {
     color: hsl(228, 45%, 44%); 
 }
 
-@media (min-width: 319px) and (max-width: 480px) {
+@media (max-width: 768px) {
 
     body {
         margin-top: 40em;
